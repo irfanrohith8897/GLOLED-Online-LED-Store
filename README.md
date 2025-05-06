@@ -1,3 +1,16 @@
+# Mini Project GitHub
+
+## Project Title
+GLOLED
+
+## Author
+**Shaik Ubaidur Rahman**  
+Student ID: R200668
+
+## GitHub Repository
+https://github.com/UBAID-SHAIK-2004/MINI_PROJECT/
+---
+
 # GLOLED – Online LED Store
 
 GLOLED is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) e-commerce web application designed to provide a seamless online shopping experience for LED products. The platform allows users to browse products, manage their shopping cart, complete secure purchases, and offers an admin panel for product management.
