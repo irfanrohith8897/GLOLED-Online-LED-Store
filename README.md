@@ -18,17 +18,16 @@ GLOLED is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) e-commerce 
 ## 🔦 Features
 
 - 🛍️ **Product Listing**: View a variety of LED products categorized for easy navigation.
-- 🔐 **Authentication**: Secure user registration and login using hashed passwords.
+- 🔐 **Authentication**: Secure user registration and login.
 - 🛒 **Shopping Cart**: Add, remove, and update cart items (available only for logged-in users).
 - 💳 **Checkout Process**: Place orders securely.
 - ⚙️ **Admin Panel**: Admins can add, edit, and delete products.
-- 🔎 **Protected Routes**: Restrict access to certain pages (like cart and admin panel) for unauthorized users.
+
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, HTML, CSS
+- **Frontend**: React.js, CSS
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB (with Mongoose ODM)
-- **Authentication**: JWT (JSON Web Tokens), bcrypt for password hashing
-- **Other Tools**: VS Code, Git, Postman for API testing
+- **Database**: MongoDB 
+
 
