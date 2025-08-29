@@ -1,11 +1,11 @@
 # Mini Project GitHub
 
 ## Project Title
-GLOLED
+GLOLED-Online LED Store
 
 ## Author
-**Shaik Ubaidur Rahman**  
-Student ID: R200668
+**Nadiminti Shaik Mohammad Irfan**  
+Student ID: R200597
 
 ## GitHub Repository
 https://github.com/UBAID-SHAIK-2004/MINI_PROJECT/
